@@ -24,3 +24,6 @@ Esse projeto foi construído com amor e dedicação usando:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/izaduart/FitTrack.git
+
+Caso queira acessar pela Versel, aqui está o link!
+https://fit-track-snowy.vercel.app/
