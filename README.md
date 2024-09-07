@@ -1,4 +1,4 @@
-# FitTrack 🚀💪
+# FitTrack 🚀💪 - Imersão Dev com Google Gemini
 
 Bem-vindo ao **FitTrack**! Um app web feito para ajudar você a encontrar o exercício perfeito para aquela parte do corpo que você quer transformar hoje! 🎯 Quer fortalecer a bunda, as pernas, os braços? Você digita, e a mágica acontece!
 
